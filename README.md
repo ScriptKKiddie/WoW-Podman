@@ -7,6 +7,9 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+- https://docs.podman.io/en/latest/_static/api.html
+- https://www.redhat.com/sysadmin/podman-python-bash
+- https://www.redhat.com/sysadmin/podmans-new-rest-api
 
 ## Author(s)
 
